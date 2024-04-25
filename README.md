@@ -22,9 +22,9 @@ If you'd like to get in touch, this section provides a contact form where you ca
 - Navigate to the project directory
 - Open the index.html file in your web browser to view the portfolio.
 
-This is the link to the website: []()
+This is the link to the website: [Jan Ian Daluz Portfolio](https://janiandaluz.github.io/challenge-2nd-week/)
 
-This is the link to the GitHub repository: []()
+This is the link to the GitHub repository: [GitHub Repository](https://github.com/janiandaluz/challenge-2nd-week)
 
 ![My Website Portfolio Screenshot](./assets/website-screenshot.png)
 
