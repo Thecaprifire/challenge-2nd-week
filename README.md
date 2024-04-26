@@ -41,7 +41,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - Credits given to this youtube video: 
     - [Create Simple Personal Portfolio with HTML and CSS](https://youtu.be/Dtb3DdSvYRY?si=iz5y9y95oyEjQNVg)
 - Credits to the following website:
-    - [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
     - [mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
     - [w3schools](https://www.w3schools.com/html/html_intro.asp)
 
